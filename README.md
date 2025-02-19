@@ -6,7 +6,7 @@ Junior Web Developer
 
 Motivated Junior Web Developer with a passion for creating responsive, user-friendly websites and applications. Looking to leverage my foundational skills in front-end and back-end development to contribute to innovative projects and grow within a dynamic team. I am an adept for learning new skills , new abilities and for improving everyday my knowledge.
 
-* 🌍  I'm based in Galati Romania
+* 🌍  I'm based in Bucharest Romania
 * ✉️  You can contact me at [luciaandreeaursu@yahoo.com](mailto:luciaandreeaursu@yahoo.com)
 * 🧠  I'm learning Node JS
 * ⚡  I have finished my studies at the University of Medicine and Pharmacy Grigore T. Popa Iasi , on the brench of Nutrition. Not long after finishing, I realised that I do not feel satisfied with the path that i have chosen ,that I want that as a hobby, not as a career, and decided to make a change .To finally have the courage to start learning programming .
