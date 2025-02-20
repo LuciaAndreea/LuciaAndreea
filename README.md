@@ -8,7 +8,7 @@ Motivated Junior Web Developer with a passion for creating responsive, user-frie
 
 * 🌍  I'm based in Bucharest Romania
 * ✉️  You can contact me at [luciaandreeaursu@yahoo.com](mailto:luciaandreeaursu@yahoo.com)
-* 🧠  I'm learning Node JS
+* 🧠  I'm learning React
 * ⚡  I have finished my studies at the University of Medicine and Pharmacy Grigore T. Popa Iasi , on the brench of Nutrition. Not long after finishing, I realised that I do not feel satisfied with the path that i have chosen ,that I want that as a hobby, not as a career, and decided to make a change .To finally have the courage to start learning programming .
 
 ### Skills
